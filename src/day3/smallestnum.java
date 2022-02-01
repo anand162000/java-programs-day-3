@@ -1,4 +1,5 @@
 package day3;
+import java.util.*;
 public class smallestnum{  
 public static int getSmallest(int[] a, int total){  
 int temp;  
